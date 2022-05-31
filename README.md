@@ -1,2 +1,0 @@
-# codewar
-Daily challenege
